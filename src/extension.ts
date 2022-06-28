@@ -16,7 +16,7 @@ export function activate(context: vscode.ExtensionContext) {
 	let disposable = vscode.commands.registerCommand('vtex-helper.helloWorld', () => {
 		// The code you place here will be executed every time your command is executed
 		// Display a message box to the user
-		vscode.window.showInformationMessage('Hello World from vtex-helper!');
+		vscode.window.showInformationMessage('Vtex Helper is on version 1.0.0');
 	});
 
 	context.subscriptions.push(disposable);
