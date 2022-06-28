@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "vtex-helper" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0] 06-28-2022
 
+### Changed
+- Just testing extension.ts for experimental purposes
 ## [Unreleased]
 
 - Initial release
