@@ -13,6 +13,7 @@
 		"onCommand:vtex-helper.helloWorld"
 	],
 	"main": "./out/extension.js",
+	"repository": "https://github.com/lfroes/vtex-vs-helper",
 	"contributes": {
 		"commands": [
 			{
