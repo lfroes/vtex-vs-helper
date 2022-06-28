@@ -1,12 +1,12 @@
 # vtex-helper README
 
-This is the README for your extension "vtex-helper". After writing up a brief description, we recommend including the following sections.
+Welcome to vtex helper! Created with the purpose of helping vtex developers to get things done quickly.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Vtex helper is a simple vtex io code snippets and suggestions, with information of blocks to help vtex developers
 
-For example if there is an image subfolder under your extension project workspace:
+Try it on your vtex store:
 
 \!\[feature X\]\(images/feature-x.png\)
 
